@@ -16,7 +16,7 @@ from aiogram.types import (
 import requests
 import bs4
 
-bot_token = "6194445095:AAHtKxyrwg8xIqw_cEiXMqdcM0gscWsHQVg"
+bot_token = "6083223718:AAHGuXyUNwBZvtuFrdd-MhNw5WhyYUU114Y"
 
 loop = asyncio.get_event_loop()
 
